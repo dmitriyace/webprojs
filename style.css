@@ -1,0 +1,16 @@
+div{
+	font-family: 'Roboto Slab', serif;
+	border: 1px dashed red;
+}
+img{
+	float: left;
+}
+.forma{
+	clear: both;
+}
+.boxmodel{
+	display: inline-block;
+}
+a{
+	/*text-decoration: none;*/
+}
