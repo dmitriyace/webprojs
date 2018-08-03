@@ -1,0 +1,16 @@
+.box1{
+    /*border-radius: 5px;*/
+    height: 80px;
+    border-radius: 2% 50%;
+    margin: 50px auto;
+    width: 80px;
+    background: blanchedalmond;
+    transition: all 3s;
+    transition-timing-function: ease-in-out;
+}
+
+.box1:hover{
+    background-color: burlywood;
+
+    transform: scale(2) /*translateX(20px) translateY(25px)*/ rotate(1080deg);
+}
